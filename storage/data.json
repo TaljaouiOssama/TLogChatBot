@@ -1,0 +1,71 @@
+[
+    {
+        "name":"Categorie1",
+        "subCategories":[{
+                        "name":"Categorie11",
+                        "subCategories":[
+                                {
+                                    "name":"Categorie111",
+                                    "response":"response111",
+                                    "subCategories":[]
+                                },
+                                {
+                                    "name":"Categorie112",
+                                    "response":"response112",
+                                    "subCategories":[]
+                    
+                                },{
+                                    "name":"Categorie113",
+                                    "response":"response113",
+                                    "subCategories":[]
+                                }
+                
+                        ]
+                    } ,
+                {
+                    "name":"Categorie12",
+                    "subCategories":[
+                        {
+                            "name":"Categorie121",
+                            "response":"response121",
+                            "subCategories":[]
+                        },
+                        {
+                            "name":"Categorie122",
+                            "response":"response122",
+                            "subCategories":[]
+            
+                        },{
+                            "name":"Categorie123",
+                            "response":"response123",
+                            "subCategories":[]
+                        }
+        
+                ]
+
+                },{
+                    "name":"Categorie13",
+                    "subCategories":[
+                        {
+                            "name":"Categorie131",
+                            "response":"response131",
+                            "subCategories":[]
+                        },
+                        {
+                            "name":"Categorie132",
+                            "response":"response132",
+                            "subCategories":[]
+            
+                        },{
+                            "name":"Categorie133",
+                            "response":"response133",
+                            "subCategories":[]
+                        }
+        
+                ]
+
+                }
+            ]    
+        
+    }
+]
